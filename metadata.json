@@ -1,0 +1,6 @@
+{
+  "name": "NKÜ Çorlu MYO Fizik I Vize Rehberi",
+  "description": "Elektronik Teknolojisi Bölümü Fizik I 1. Vize sınavı için kapsamlı ders notları, formüller, çözümlü tahta ve PDF örnekleri, etkileşimli simülatörler ve A4 PDF çıktısı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
